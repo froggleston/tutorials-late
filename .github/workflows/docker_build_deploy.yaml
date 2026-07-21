@@ -118,7 +118,7 @@ jobs:
 
       - name: "Setup Lesson Dependencies"
         id: build-container-deps
-        uses: carpentries/actions/build-container-deps@main
+        uses: carpentries/actions/build-container-deps@frog-sysreqs-2
         with:
           CACHE_VERSION: ${{ vars.CACHE_VERSION || github.event.inputs.CACHE_VERSION || '' }}
           WORKBENCH_TAG: ${{ vars.WORKBENCH_TAG || 'latest' }}
