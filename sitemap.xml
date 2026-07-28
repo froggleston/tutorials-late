@@ -13,6 +13,9 @@
     <loc>https://epiverse-trace.github.io/tutorials-late/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://epiverse-trace.github.io/tutorials-late/aio.html</loc>
+  </url>
+  <url>
     <loc>https://epiverse-trace.github.io/tutorials-late/citation.html</loc>
   </url>
   <url>
@@ -26,6 +29,9 @@
   </url>
   <url>
     <loc>https://epiverse-trace.github.io/tutorials-late/disease-burden.html</loc>
+  </url>
+  <url>
+    <loc>https://epiverse-trace.github.io/tutorials-late/images.html</loc>
   </url>
   <url>
     <loc>https://epiverse-trace.github.io/tutorials-late/index.html</loc>
@@ -43,6 +49,9 @@
     <loc>https://epiverse-trace.github.io/tutorials-late/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://epiverse-trace.github.io/tutorials-late/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://epiverse-trace.github.io/tutorials-late/instructor/citation.html</loc>
   </url>
   <url>
@@ -58,7 +67,16 @@
     <loc>https://epiverse-trace.github.io/tutorials-late/instructor/disease-burden.html</loc>
   </url>
   <url>
+    <loc>https://epiverse-trace.github.io/tutorials-late/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://epiverse-trace.github.io/tutorials-late/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://epiverse-trace.github.io/tutorials-late/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://epiverse-trace.github.io/tutorials-late/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://epiverse-trace.github.io/tutorials-late/instructor/model-choices.html</loc>
@@ -77,6 +95,12 @@
   </url>
   <url>
     <loc>https://epiverse-trace.github.io/tutorials-late/instructor/vaccine-comparisons.html</loc>
+  </url>
+  <url>
+    <loc>https://epiverse-trace.github.io/tutorials-late/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://epiverse-trace.github.io/tutorials-late/key-points.html</loc>
   </url>
   <url>
     <loc>https://epiverse-trace.github.io/tutorials-late/model-choices.html</loc>
